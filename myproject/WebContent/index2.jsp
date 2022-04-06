@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<script>location.href="./myboard/member_Board_list.jsp";</script>
-깃허브 연습용~~!!!
+연습용 연습용
 </body>
 </html>
