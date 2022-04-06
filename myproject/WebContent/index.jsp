@@ -9,5 +9,7 @@
 <body>
 <script>location.href="./myboard/member_Board_list.jsp";</script>
 깃허브 연습용~~!!!
+
+user1브랜치로 입력
 </body>
 </html>
